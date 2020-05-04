@@ -9,7 +9,7 @@ When I decided to make a career change in 2018, I was affraid to invest my time 
 
 I already knew that the city where I was living in that moment had a lot of opportunities for developers, but I couldn't have a clear picture about roles and programming languanges more necessary in the market. So, I decided to build this project to get data from job oportunities and let the data help me to make my choices.
 
-## PreRequisites
+## Prerequisites
 
 - Python 3.7
 - BeautifulSoup from bs4
