@@ -22,6 +22,9 @@ MY_EMAIL=config['GSHEETS']['MY_EMAIL']
 
 
 def get_job_data():
+    '''
+    Use BeautifulSoup to scrap the webpage and get data.
+    '''
     npo_jobs = {}
     job_no = 0
 
